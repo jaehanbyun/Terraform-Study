@@ -1,5 +1,6 @@
-resource "aws_security_group" "jaehan-sg" {
-  name = "jaehan-sg"
+resource "aws_security_group" "terraform-sg" {
+  name = "terraform-sg"
+  vpc_id = aws_vpc.terraform-vpc.id
 
   ingress {
     from_port   = var.server_port
