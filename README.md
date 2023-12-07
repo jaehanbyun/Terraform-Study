@@ -3,7 +3,7 @@
 CloudClub 3기 활동중 진행한 Terraform 스터디 관련 코드 기록입니다.
 
 ## :dart: 목표
-Terraform 기초 및 사용법 학습 후 실습을 진행합니다.
+Terraform 기초 및 사용법 학습
 
 ## :books: 교재
 Terraform Up & Running 2nd Edition
@@ -24,3 +24,6 @@ Terraform Up & Running 2nd Edition
 
 ### AWS 상 구성도
 <img width="518" alt="image" src="https://github.com/jaehanbyun/Terraform-Study/assets/80397512/df353730-59a6-40e5-9871-21d3ccb9301b">
+
+### 발표 영상
+[![발표 영상](https://img.youtube.com/vi/lTqLTPNK-6U/0.jpg)](https://www.youtube.com/watch?v=lTqLTPNK-6U)
